@@ -2,8 +2,9 @@
 
 An autonomous AI Agent workflow built with **n8n**, **OpenAI**, **Google Sheets**, and **Gmail**. The agent acts as a conversational data analyst—capable of inspecting spreadsheet datasets, running analytical evaluations, and sending structured HTML email summaries to stakeholders.
 
-![Workflow Architecture](./assets/n8n flow diagram.png)
-./assets/n8n output.png
+![Workflow Architecture](./assets/n8n%20flow%20diagram.png)
+
+![Workflow Output](./assets/n8n%20output.png)
 
 ---
 
